@@ -9,5 +9,5 @@ repositories {
 dependencies {
     compileOnlyApi "org.immutables:value:2.8.8:annotations"
     annotationProcessor "org.immutables:value:2.8.8"
-    compileOnlyApi "org.immutables:builder:2.8.8"
+    compileOnlyApi "org.immutables:builder:2.9.2"
 }
